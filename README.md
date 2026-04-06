@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mimansa 👋
 
-<!--
-**nathmimansa15-code/nathmimansa15-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student – Information Technology & Management (UT Dallas)  
+💡 Focused on Data Engineering, Analytics, and Cloud Solutions  
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Vendor 360 Risk Intelligence Dashboard
+- Built an end-to-end vendor risk analytics system using Python & Streamlit  
+- Designed a weighted risk scoring model across delivery, compliance, financial, and performance metrics  
+- Developed an interactive dashboard with filtering, KPIs, and vendor-level drilldowns  
+
+🔗 https://github.com/nathmimansa15-code/vendor-risk-dashboard
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy)
+- SQL
+- Streamlit, Plotly
+- Azure, Snowflake (learning & projects)
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mimansa-nath-a68b97384/
